@@ -1,0 +1,27 @@
+(pat_num)2
+(pat_no)0
+(matrix_size)2(2:2*2, 4:4*4, 8:8*8, 16:16*16)
+(matrix_0)4 3 5 2(num=size*size)
+(matrix_1)1 2 3 4
+(matrix_2)1 2 3 4
+.
+.
+.
+.
+.
+.
+(matrix_31)5 6 7 8
+(id_0)(mode:0~3)1 (idx)16 8 7
+(id_1)(mode:0~3)1 (idx)10 7 9
+(id_2)(mode:0~3)1 (idx)8 5 6
+.
+.
+.
+.
+.
+(id_9)(mode:0~3)1 (idx)8 5 6
+(pat_no)1
+.
+.
+.
+.
